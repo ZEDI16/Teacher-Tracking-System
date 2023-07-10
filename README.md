@@ -6,6 +6,7 @@ A simple small capstone project of a system that will track teacher's teach-in c
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+- [Bugs](#Bugs)
 
 ## Introduction
 
@@ -42,9 +43,21 @@ TEACHER
 - Feature 3: Attendance Update.
 
 
+## Bugs
+
+The System Itself isn't finish yet.
+
+
 ## Installation
 
-Explain how to install and set up your PHP-based system. Include any dependencies or prerequisites that need to be installed. You can also provide step-by-step instructions or a script to automate the installation process.
-
+1. Download the source code, then unzip it, or use git to copy the repository file. 
 ```shell
 $ git clone https://github.com/ZEDI16/Teacher-Tracking-System.git
+```
+2. Install or download any local web server that supports PHP scripting.
+3. Create a new database called "tracking_db" in the web server's database
+4. Import the SQL file from the source code's database folder.
+5. The source code should be copied and pasted into the directory where your local web server is accessing your local projects. example: (C:xampp\htdocs)
+6. And finally open a web browser and browse the project. E.g [http://localhost/Teacher Tracking System]
+
+
