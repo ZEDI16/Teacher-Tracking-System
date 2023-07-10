@@ -66,3 +66,11 @@ DASHBOARD PAGE (Admin)
 >6. And finally open a web browser and browse the project. E.g [http://localhost/Teacher Tracking System]
 
 
+ADMIN - CREDENTIALS
+> Email: admin@admin.com
+> Password: admin123
+
+TEACHER - CREDENTIALS
+> Email: visitor@teacher.com
+> Password: visitors
+
