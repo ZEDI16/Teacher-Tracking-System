@@ -1,5 +1,6 @@
 # Teacher-Tracking-System
 A simple small capstone project of a system that will track teacher's teach-in classroom.
+![Project Image](assets/uploads/Home _ TEACHER TRACKING SYSTEM - Google Chrome 7_6_2023 1_28_56 PM.png)
 
 ## Table of Contents
 
