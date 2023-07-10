@@ -1,12 +1,11 @@
 # Teacher-Tracking-System
 A simple small capstone project of a system that will track teacher's teach-in classroom.
-![ProjectImage](https://github.com/ZEDI16/Teacher-Tracking-System/assets/uploads/Home _ TEACHER TRACKING SYSTEM - Google Chrome 7_6_2023 1_28_56 PM.png)
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Bugs](#Bugs)
+- [Bugs](#bugs)
 - [Installation](#installation)
 
 ## Introduction
@@ -43,6 +42,9 @@ TEACHER
 - Feature 2: Teacher View.
 - Feature 3: Attendance Update.
 
+DASHBOARD PAGE
+
+![ProjectImage](https://github.com/ZEDI16/Teacher-Tracking-System/blob/main/assets/uploads/sdfsdf.png)
 
 ## Bugs
 
