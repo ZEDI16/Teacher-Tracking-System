@@ -1,5 +1,5 @@
 # Teacher-Tracking-System
-<h5><a href="https://ttsnash.rf.gd/" target="_blank" rel="noopener">Currently Online Click to view</a></h5>
+<h5>Currently Online<a href="https://ttsnash.rf.gd/" target="_blank" rel="noopener">Clic</a>k to view</h5>
 A simple small capstone project of a system that will track teacher's teach-in classroom.
 
 
