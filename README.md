@@ -52,7 +52,7 @@ The System Itself isn't finish yet.
 
 1. Download the source code, then unzip it, or use git to copy the repository file. 
 ```shell
-$ git clone https://github.com/ZEDI16/Teacher-Tracking-System.git
+git clone https://github.com/ZEDI16/Teacher-Tracking-System.git
 ```
 2. Install or download any local web server that supports PHP scripting.
 3. Create a new database called "tracking_db" in the web server's database
