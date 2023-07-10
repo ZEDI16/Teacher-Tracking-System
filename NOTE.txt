@@ -1,0 +1,39 @@
+password: admin123
+raw password: 0192023a7bbd73250516f069df18b500
+
+
+// wala na gamit nga code... para ni sa kuhaon data from classroom_list then show to label
+
+	  <div class="form-group">
+       <label for="classroom" class="control-label">Classroom:</label>
+        <select name="selectedClass" class="form-control form-control-sm" required>
+        <option value=""> <?php echo isset($selectedSubject) ? $selectedSubject : ''; ?> </option>
+        <?php
+        // Database query
+        $query = "SELECT class_name FROM classroom_list";
+        $result = mysqli_query($conn, $query);
+        if (mysqli_num_rows($result) > 0) {
+            while ($row = mysqli_fetch_assoc($result)) {
+          $selected = isset($selectedSubject) && $selectedSubject === $row['class_name'] ? 'selected' : '';
+        ?>
+                <option value="<?php echo $row['class_name']; ?>" <?php echo $selected; ?>><?php echo $row['class_name']; ?></option>
+        <?php
+         }
+        }
+        ?>
+        </select>
+        </div>
+
+// wala na gamit nga code... para ni sa new_faculty classroom combobox
+    <div class="form-group">
+    <?php $qry = $conn->query("SELECT *, CONCAT(class_id,'_',class_name,'_',grade_level) AS classData FROM classroom_list ORDER BY CONCAT(class_id,'_',class_name,'_',grade_level) ASC"); ?>
+    <label for="classroom" class="control-label">Classroom:</label>
+    <select name="classroom" class="form-control form-control-sm" required>
+        <option value=""> </option>
+        <?php while ($row = $qry->fetch_assoc()): ?>
+            <option value="<?php echo trim($row['classData']); ?>" <?php echo (isset($classroom) && $classroom === trim($row['classData'])) ? 'selected' : ''; ?>>
+                <?php echo trim($row['classData']); ?>
+            </option>
+        <?php endwhile; ?>
+    </select>
+</div>
