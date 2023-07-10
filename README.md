@@ -1,5 +1,5 @@
 # Teacher-Tracking-System
-<h5>Currently Online<a href="https://ttsnash.rf.gd/" target="_blank" rel="noopener"> Click </a> to view</h5>
+> <h5>Currently Online<a href="https://ttsnash.rf.gd/" target="_blank" rel="noopener"> Click </a> to view</h5>
 A simple small capstone project of a system that will track teacher's teach-in classroom.
 
 
@@ -25,24 +25,24 @@ This study looks into the main issues with teacher tracking systems and suggests
 
 BASIC FEATURES
 
-- Feature 1: Teacher and administrators can access the system.
-- Feature 2: Data visualization.
-- Feature 3: User Friendly.
+>- Feature 1: Teacher and administrators can access the system.
+>- Feature 2: Data visualization.
+>- Feature 3: User Friendly.
 
 ADMIN
 
-- Feature 1: Login Page.
-- Feature 2: Classroom Management.
-- Feature 3: Subjects Management.
-- Feature 4: Attendance Management.
-- Feature 5: Teachers Management.
-- Feature 6: Users Management.
+>- Feature 1: Login Page.
+>- Feature 2: Classroom Management.
+>- Feature 3: Subjects Management.
+>- Feature 4: Attendance Management.
+>- Feature 5: Teachers Management.
+>- Feature 6: Users Management.
 
 TEACHER
 
-- Feature 1: Login Page.
-- Feature 2: Teacher View.
-- Feature 3: Attendance Update.
+>- Feature 1: Login Page.
+>- Feature 2: Teacher View.
+>- Feature 3: Attendance Update.
 
 DASHBOARD PAGE (Admin)
 
@@ -50,19 +50,19 @@ DASHBOARD PAGE (Admin)
 
 ## Bugs
 
-The System Itself isn't finish yet.
+>The System Itself isn't finish yet.
 
 
 ## Installation
 
-1. Download the source code, then unzip it, or use git to copy the repository file. 
-```shell
-git clone https://github.com/ZEDI16/Teacher-Tracking-System.git
-```
-2. Install or download any local web server that supports PHP scripting.
-3. Create a new database called "tracking_db" in the web server's database
-4. Import the SQL file from the source code's database folder.
-5. The source code should be copied and pasted into the directory where your local web server is accessing your local projects. example: (C:xampp\htdocs)
-6. And finally open a web browser and browse the project. E.g [http://localhost/Teacher Tracking System]
+>1. Download the source code, then unzip it, or use git to copy the repository file. 
+>```shell
+>git clone https://github.com/ZEDI16/Teacher-Tracking-System.git
+>```
+>2. Install or download any local web server that supports PHP scripting.
+>3. Create a new database called "tracking_db" in the web server's database
+>4. Import the SQL file from the source code's database folder.
+>5. The source code should be copied and pasted into the directory where your local web server is accessing your local projects. example: (C:xampp\htdocs)
+>6. And finally open a web browser and browse the project. E.g [http://localhost/Teacher Tracking System]
 
 
