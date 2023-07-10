@@ -20,11 +20,27 @@ This study looks into the main issues with teacher tracking systems and suggests
 
 ## Features
 
-List the key features and functionalities of your PHP-based system. You can use bullet points to highlight each feature.
+BASIC FEATURES
 
 - Feature 1: Teacher and administrators can access the system.
 - Feature 2: Data visualization.
 - Feature 3: User Friendly.
+
+ADMIN
+
+- Feature 1: Login Page.
+- Feature 2: Classroom Management.
+- Feature 3: Subjects Management.
+- Feature 4: Attendance Management.
+- Feature 5: Teachers Management.
+- Feature 6: Users Management.
+
+TEACHER
+
+- Feature 1: Login Page.
+- Feature 2: Teacher View.
+- Feature 3: Attendance Update.
+
 
 ## Installation
 
