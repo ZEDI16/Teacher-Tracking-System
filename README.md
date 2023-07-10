@@ -5,8 +5,8 @@ A simple small capstone project of a system that will track teacher's teach-in c
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Bugs](#Bugs)
+- [Installation](#installation)
 
 ## Introduction
 
