@@ -83,4 +83,5 @@ TEACHER - CREDENTIALS
 -->
 
 ### License
-This project is under a [MIT License](https://github.com/open-domains/register/blob/main/LICENSE).
+This project is free and unlicensed.
+
